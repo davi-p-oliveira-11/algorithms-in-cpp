@@ -5,3 +5,5 @@ Enter a number: 9
 The predecessor of 9 is 8
 The successor of 9 is 10
 */
+
+/* */
