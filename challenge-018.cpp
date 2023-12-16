@@ -3,7 +3,7 @@
  calculates their age, and then shows whether they can or cannot vote.
 */
 
-/* */
+/* 0*/
 
 #include <iostream>
 
