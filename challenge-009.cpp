@@ -9,14 +9,14 @@
 int main () {
 
   // Variables
-  float avaiableBRL, valueUSD;
+  float availableBRL, valueUSD;
 
   // Prompt the user to enter BRL value
   std::cout << "Enter a value in BRL: ";
-  std::cin >> avaiableBRL;
+  std::cin >> availableBRL;
 
   // Converting BRL to USD
-  valueUSD = avaiableBRL / 3.45;
+  valueUSD = availableBRL / 3.45;
 
   // Set the precision to control the number of decimal numbers
   std::cout << std::fixed << std::setprecision(2);
